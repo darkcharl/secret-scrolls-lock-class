@@ -1,0 +1,1 @@
+# secret-scrolls-lock-class
